@@ -54,11 +54,5 @@ if(!empty($searchQuery)) {
 <div id="ft">
   &copy; 2009 <a href="http://jeremyhubert.com">Jeremy Hubert</a>, although I'd probably let you use it if you just ask me.
 </div>
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
-<script type="text/javascript">
-_uacct = "UA-195712-2";
-urchinTracker();
-</script>
 </body>
 </html>
