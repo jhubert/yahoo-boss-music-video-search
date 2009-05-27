@@ -1,0 +1,13 @@
+Music Video Search
+
+This is a simple Music Video Search tool I built with Yahoo! BOSS and YouTube. All you need to do is type in a band or song name and it will start playing the first music video it finds.
+
+Sometimes when I'm really bored, I also just start typing in random words to see what comes up. A few of my favorites are Banana, Pizza and Science.
+
+Integration with iTunes
+
+I have also written an AppleScript that will find a music video based on the currently playing or selected track.
+
+I've set it up so that the file can be triggered by Quicksilver, which is pretty straight forward.
+
+Of course, this was all done very quickly. If you have suggestions or want to expand on it, by all means please do. :)
